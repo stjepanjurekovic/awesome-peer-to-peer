@@ -272,6 +272,7 @@
 * [p2pweb](https://github.com/mildred/p2pweb): Create a web where web pages are published/shared in a P2P fashion
 * [bitweb](https://github.com/mildred/bitweb): websites sharing using bittorrent
 - [p2p handbook](https://github.com/noffle/p2p-handbook): introductory handbook on p2p tech & javascript
+* [Peer-to-Peer Web Applications](https://www.manning.com/books/peer-to-peer-web-applications): A book about modern peer-to-peer web apps that protect privacy and give users control over their own data.
 
 
 
